@@ -1,3 +1,4 @@
+# Calculadora básica usando la terminal
 def add(num1, num2):
     return num1 + num2
 
